@@ -1,3 +1,3 @@
 # Pizza Order Website
 
-A simple pizza order website made with HTML & CSS & Javascript
+A pizza ordering website with HTML, CSS, and JavaScript.
